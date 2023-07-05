@@ -1,8 +1,5 @@
 #include "BitcoinExchange.hpp"
 
-
-
-
 BitcoinExchange::BitcoinExchange()
 {
     std::cout << "welcome to Bitcoin Exchange " << std::endl;

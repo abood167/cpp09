@@ -9,7 +9,6 @@
 #include <algorithm>
 #include <vector>
 
-
 typedef std::vector<std::pair<int,int> > vector;
 typedef std::deque<std::pair<int,int> > deque;
 class PmergeMe
